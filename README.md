@@ -15,5 +15,6 @@ You can see the current weather in your location and see a little map below, the
 
 ## Images
 <img src="https://github.com/BeTheVal/Wedar/blob/main/Loading.png" width="200" height="400" />
-<img src="https://github.com/BeTheVal/Wedar/blob/main/Main%20Screen.png" width="200" height="400" />
 <img src="https://github.com/BeTheVal/Wedar/blob/main/Request.png" width="200" height="400" />
+<img src="https://github.com/BeTheVal/Wedar/blob/main/Main%20Screen.png" width="200" height="400" />
+
